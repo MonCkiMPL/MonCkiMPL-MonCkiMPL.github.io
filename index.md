@@ -8,3 +8,9 @@ Bald wirst du erfahren, welche Bewandtnis es mit dem Meister und dieser Mühle h
 * klein
 * kurze Haare
 * blaue Augen
+
+Mein Zitat: 
+
+> Doch der Preis dafür ist hoch.
+
+
