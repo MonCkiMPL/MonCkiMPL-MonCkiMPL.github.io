@@ -14,3 +14,6 @@ Mein Zitat:
 > Doch der Preis dafür ist hoch.
 
 
+<img src="https://openclipart.org/detail/321377/papaya-tree"/>
+
+
